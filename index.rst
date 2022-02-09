@@ -1,8 +1,11 @@
+:hide-toc:
+
+===========
 /agile/code
 ===========
 
 `Agile <https://agilescientific.com>`_ is a small subsurface consulting team. We can help you build anything. Seriously.
-----------------
+--------------------------------------------------------------------------------------------------------------------------
 
 We love the digital subsurface. We're also into meta things like knowledge sharing, creative collaboration, open access, professional excellence, and we're passionate about helping scientists learn to program.
 
