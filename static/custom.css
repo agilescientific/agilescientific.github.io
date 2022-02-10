@@ -1,0 +1,17 @@
+h1 {
+    color: #14ca29;
+}
+
+blockquote {
+    background: #ffffff;
+    border-left-width: 0px;
+    padding: 0em;
+}
+
+blockquote div.line {
+    color: #0f861d;
+    display: inline;
+    font-style: normal !important;
+    font-size: 150%;
+    line-height: 125%;
+}

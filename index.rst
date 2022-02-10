@@ -4,10 +4,16 @@
 /agile/code
 ===========
 
-`Agile <https://agilescientific.com>`_ is a small subsurface consulting team. We can help you build anything. Seriously.
---------------------------------------------------------------------------------------------------------------------------
+    | Agile* is a small subsurface consulting team.
 
-We love the digital subsurface. We're also into meta things like knowledge sharing, creative collaboration, open access, professional excellence, and we're passionate about helping scientists learn to program.
+    | We can help you build anything. Seriously.
+
+We love the digital subsurface, and we love open science. We get excited about creative collaboration, open access, open data, professional excellence, and we're passionate about helping scientists learn to program. And make open source tools for each other.
+
+|link|_
+
+.. |link| replace:: **Visit our website.**
+.. _link: https://agilescientific.com
 
 
 Project documentation
