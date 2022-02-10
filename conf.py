@@ -11,6 +11,11 @@ author = 'Agile Scientific'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
+# This is required for GitHub pages, and seems neater than putting
+# it in the GitHub build-docs Action. Creates .nojekyll and CNAME.
+extensions = ['sphinx.ext.githubpages']
+html_baseurl = 'https://code.agilescientific.com'  # Must have protocol.
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
