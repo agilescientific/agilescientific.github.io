@@ -20,7 +20,7 @@ jobs:
         pip install sphinx furo
     - name: Update Sphinx docs
       run: |
-        sphinx-build -E -b html . _build
+        make html
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4.2.3
       with:
