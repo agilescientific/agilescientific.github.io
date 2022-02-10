@@ -1,5 +1,10 @@
 :hide-toc:
 
+.. container:: noclass
+   :name: forkongithub
+
+   `Visit us on GitHub <https://github.com/agile-geoscience>`_
+
 ===========
 /agile/code
 ===========
