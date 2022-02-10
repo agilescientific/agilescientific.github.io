@@ -19,7 +19,7 @@ blockquote div.line {
 .related-information:before{
     display: block;
     width:48px;
-    content: url('agile-open-logo-nocircle_40px.png');
+    content: url('agile-open-logo-nocircle-grey_40px.png');
     float: left;
     margin-top: -4px;
 }
