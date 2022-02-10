@@ -16,8 +16,20 @@ blockquote div.line {
     line-height: 125%;
 }
 
+.related-information:before{
+    display: block;
+    width:48px;
+    content: url('agile-open-logo-nocircle_40px.png');
+    float: left;
+    margin-top: -4px;
+}
+
+.related-information {
+    padding-left: 0px;
+}
+
 #forkongithub a {
-    background:#000;
+    background:rgb(158, 158, 158);
     color:#fff;
     text-decoration:none;
     font-family:arial,sans-serif;
@@ -34,7 +46,7 @@ blockquote div.line {
     background:#14ca29;
     color:#fff;
 }
-
+/* Add little stripes to the ribbon.
 #forkongithub a::before,#forkongithub a::after {
     content:"";
     width:100%;
@@ -45,6 +57,7 @@ blockquote div.line {
     height:1px;
     background:#fff;
 }
+*/
 
 #forkongithub a::after {
     bottom:1px;
