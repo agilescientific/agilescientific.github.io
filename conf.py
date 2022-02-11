@@ -36,7 +36,7 @@ exclude_patterns = ['_build', 'README.rst']
 # https://sphinx-themes.org/sample-sites/furo/
 html_theme = 'furo'
 
-html_logo = 'static/agile_open_logo.png'
+html_logo = 'static/agile_open_mini_logo.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
