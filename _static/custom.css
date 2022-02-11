@@ -2,8 +2,9 @@ h1 {
     color: #14ca29;
 }
 
+/* Styles the 'line block' https://docutils.sourceforge.io/docs/user/rst/quickref.html#line-blocks. */
 blockquote {
-    background: #ffffff;
+    background: none;
     border-left-width: 0px;
     padding: 0em;
 }
@@ -16,6 +17,7 @@ blockquote div.line {
     line-height: 125%;
 }
 
+/* Adds the Agile logo in the footer. */
 .related-information:before{
     display: block;
     width:48px;
@@ -28,6 +30,7 @@ blockquote div.line {
     padding-left: 0px;
 }
 
+/* Adds the GitHub ribbon. */
 #forkongithub a {
     background:rgb(158, 158, 158);
     color:#fff;
