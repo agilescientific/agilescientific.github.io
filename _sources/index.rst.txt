@@ -33,6 +33,7 @@ Check out some of our other projects:
 * `striplog <striplog>`_ — manage and analyse 1D intervals and sequences.
 * `bruges <bruges>`_ — our geophysical toolbox: wavelets, reflectivity algos, that sort of thing.
 * `redflag <redflag>`_ — early warning system for machine learning data.
+* `gio <gio>`_ — input/output for subsurface surfaces (grids, horizons, etc).
 * `kosu <kosu>`_ — manage programming class material.
 
 
