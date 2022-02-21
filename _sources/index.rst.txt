@@ -17,7 +17,7 @@ We love the digital subsurface, and we love open science. We get excited about c
 
 |link|_
 
-.. |link| replace:: **Visit our website.**
+.. |link| replace:: 💡 **Visit our website.**
 .. _link: https://agilescientific.com
 
 
@@ -30,7 +30,7 @@ Check out the documentation to our major projects:
 * `striplog <striplog>`_ — manage and analyse 1D intervals and sequences.
 * `bruges <bruges>`_ — our geophysical toolbox: wavelets, reflectivity algos, that sort of thing.
 
-Check out some of our other projects:
+Check out some of our other projects; these are works in progress:
 
 * `redflag <redflag>`_ — early warning system for machine learning data.
 * `gio <gio>`_ — input/output for subsurface surfaces (grids, horizons, etc).

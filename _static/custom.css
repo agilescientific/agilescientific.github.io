@@ -1,3 +1,8 @@
+/* Styles the main heading. */
+h1 {
+    color: #14ca29;
+}
+
 /* Removes Captions from the main page. */
 article p.caption {
     display: none;
@@ -11,7 +16,7 @@ blockquote {
 }
 
 blockquote div.line {
-    color: #838383;
+    color: #0f861d;
     display: inline;
     font-style: normal !important;
     font-size: 150%;
