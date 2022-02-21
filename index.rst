@@ -37,12 +37,10 @@ Check out some of our other projects:
 * `kosu <kosu>`_ — manage programming class material.
 
 
-Support or contact
-------------------
+Issues or questions?
+--------------------
 
-You can find us online at `agilescientific.com <https://agilescientific.com>`_ — we write lots about digital technology and the subsurface.
-
-If you have digital subsurface issues or questions contact hello@agilegeoscience.com and we'll help you sort it out.
+Contact hello@agilegeoscience.com and we'll help you sort it out.
 
 
 .. toctree::

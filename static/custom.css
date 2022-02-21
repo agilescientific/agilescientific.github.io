@@ -1,5 +1,6 @@
-h1 {
-    color: #14ca29;
+/* Removes Captions from the main page. */
+article p.caption {
+    display: none;
 }
 
 /* Styles the 'line block' https://docutils.sourceforge.io/docs/user/rst/quickref.html#line-blocks. */
@@ -10,24 +11,11 @@ blockquote {
 }
 
 blockquote div.line {
-    color: #0f861d;
+    color: #838383;
     display: inline;
     font-style: normal !important;
     font-size: 150%;
     line-height: 125%;
-}
-
-/* Adds the Agile logo in the footer. */
-.related-information:before{
-    display: block;
-    width:48px;
-    content: url('agile-open-logo-nocircle-grey_40px.png');
-    float: left;
-    margin-top: -4px;
-}
-
-.related-information {
-    padding-left: 0px;
 }
 
 /* Adds the GitHub ribbon. */
@@ -49,18 +37,6 @@ blockquote div.line {
     background:#14ca29;
     color:#fff;
 }
-/* Add little stripes to the ribbon.
-#forkongithub a::before,#forkongithub a::after {
-    content:"";
-    width:100%;
-    display:block;
-    position:absolute;
-    top:1px;
-    left:0;
-    height:1px;
-    background:#fff;
-}
-*/
 
 #forkongithub a::after {
     bottom:1px;
