@@ -3,7 +3,7 @@
 .. container:: noclass
    :name: forkongithub
 
-   `Visit us on GitHub <https://github.com/agile-geoscience>`_
+   `Visit us on GitHub <https://github.com/agilescientific>`_
 
 ===========
 /agile/code
@@ -40,7 +40,7 @@ Check out some of our other projects; these are works in progress:
 Issues or questions?
 --------------------
 
-Contact hello@agilegeoscience.com and we'll help you sort it out.
+Contact hello@agilescientific.com and we'll help you sort it out.
 
 
 .. toctree::
@@ -57,6 +57,6 @@ Contact hello@agilegeoscience.com and we'll help you sort it out.
    :caption: Agile Scientific
 
     Community guidelines <https://code.agilescientific.com/community>
-    Agile's GitHub <https://github.com/agile-geoscience>
+    Agile's GitHub <https://github.com/agilescientific>
     Agile's software <https://code.agilescientific.com>
     Agile's website <https://www.agilescientific.com>
