@@ -1,6 +1,6 @@
-agile-geoscience.github.io
+agilescientfic.github.io
 ==========================
 
-Pages site for Agile Geoscience
+Pages site for Agile*.
 
 Edit the content in ``docs``.
