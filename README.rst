@@ -1,4 +1,4 @@
-agilescientfic.github.io
+agilescientific.github.io
 ==========================
 
 Pages site for Agile*.
