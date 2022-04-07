@@ -41,6 +41,7 @@ def main(path):
             html = f.read()
 
             new_html = simplify_credits(html)
+            new_html = add_analytics(html)
 
             f.seek(0)
             f.write(new_html)
