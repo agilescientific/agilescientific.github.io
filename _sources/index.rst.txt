@@ -30,11 +30,13 @@ Check out the documentation to our major projects:
 * `striplog <striplog>`_ — manage and analyse 1D intervals and sequences.
 * `bruges <bruges>`_ — our geophysical toolbox: wavelets, reflectivity algos, that sort of thing.
 
-Check out some of our other projects; these are works in progress:
+Check out some of our other projects; these are works in progress (contributions welcome!):
 
-* `redflag <redflag>`_ — early warning system for machine learning data.
 * `gio <gio>`_ — input/output for subsurface surfaces (grids, horizons, etc).
 * `kosu <kosu>`_ — manage programming class material.
+* `redflag <redflag>`_ — early warning system for machine learning data.
+* `ricky <https://github.com/agilescientific/ricky>`_ — seismic wavelets as xarrays.
+* `seisplot <https://github.com/agilescientific/seisplot>`_ — traditional plots of seismic with or without coffee stains.
 
 
 Issues or questions?
