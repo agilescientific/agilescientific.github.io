@@ -19,6 +19,18 @@ def simplify_credits(html):
     return html
 
 
+def add_analytics(html):
+    """
+    Add snippet to head.
+    """
+    s = r'</head>'
+    pattern = re.compile(s)
+    new_s = '<script defer data-domain="code.agilescientific.com" src="https://plausible.io/js/plausible.js"></script></head>'
+    html = pattern.sub(new_s, html)
+
+    return html
+
+
 def main(path):
     """
     Process the HTML files in path, save in place (side-effect).
