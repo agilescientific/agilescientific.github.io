@@ -38,6 +38,10 @@ Check out some of our other projects; these are works in progress (contributions
 * `ricky <https://github.com/agilescientific/ricky>`_ — seismic wavelets as xarrays.
 * `seisplot <https://github.com/agilescientific/seisplot>`_ — traditional plots of seismic with or without coffee stains.
 
+**形** You might also like our `kata <https://kata.geosci.ai>`_, or coding practice. `This notebook <https://gist.github.com/kwinkunks/50f11dac6ab7ff8c3e6c7b34536501a2>`_ will help you get started.
+
+🤖 If you're interested in machine learning, check out our various apps and demos at `geosci.ai <https://geosci.ai/>`_.
+
 
 Issues or questions?
 --------------------
