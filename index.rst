@@ -9,11 +9,9 @@
 /agile/code
 ===========
 
-    | Agile* is a small subsurface consulting team.
+    | Agile* was a small subsurface consulting team.
 
-    | We can help you build anything. Seriously.
-
-We love the digital subsurface, and we love open science. We get excited about creative collaboration, open access, open data, professional excellence, and we're passionate about helping scientists learn to program. And make open source tools for each other.
+    | It closed in September 2022. It was fun while it lasted!
 
 |link|_
 
@@ -38,15 +36,11 @@ Check out some of our other projects; these are works in progress (contributions
 * `ricky <https://github.com/agilescientific/ricky>`_ — seismic wavelets as xarrays.
 * `seisplot <https://github.com/agilescientific/seisplot>`_ — traditional plots of seismic with or without coffee stains.
 
-**形** You might also like our `kata <https://kata.geosci.ai>`_, or coding practice. `This notebook <https://gist.github.com/kwinkunks/50f11dac6ab7ff8c3e6c7b34536501a2>`_ will help you get started.
+What else?
+
+**形** You might also like our `kata <https://kata.geosci.ai>`_, or coding challenges. `This notebook <https://gist.github.com/kwinkunks/50f11dac6ab7ff8c3e6c7b34536501a2>`_ will help you get started.
 
 🤖 If you're interested in machine learning, check out our various apps and demos at `geosci.ai <https://geosci.ai/>`_.
-
-
-Issues or questions?
---------------------
-
-Contact hello@agilescientific.com and we'll help you sort it out.
 
 
 .. toctree::
